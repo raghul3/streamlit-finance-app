@@ -5,3 +5,5 @@ venv/
 # Ignore Streamlit and log files
 .streamlit/
 *.log
+
+firebase_credentials.json
